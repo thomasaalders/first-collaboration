@@ -1,6 +1,6 @@
 ---
 title: "First Website"
-author: "Martha"
+author: "Martha van Os"
 date: "22-11-2019"
 output: html_document
 ---
